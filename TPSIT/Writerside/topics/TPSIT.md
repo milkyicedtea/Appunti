@@ -1,4 +1,4 @@
-# TPSIT 1-2-3
+# TPSIT 1, 2, 3 - 06/11/23
 
 ## 1 - Sistemi distribuiti
 
@@ -21,22 +21,27 @@
 
 - Sistemi informativi
   - Ogni transazione consiste in un insieme di operazioni elementari incapsulate in due comandi
-  di inizo-fine trasmissione
+  di inizio-fine trasmissione
   - Il Web e' il piu' grande di questi
 
 - Sistemi distributivi pervasivi
   - Hanno connessioni di tipo wireless e sono sottoparti di altri sistemi piu' grandi
 
 ### Benefici
-- 
-- 
-- 
-- 
-- 
+- Affidabilita' (In grado di sopravvivere in caso di guasto di un componente)
+- Integrazione (Capace di integrare componenti non eterogenei)
+- Trasparenza (L'utente non deve accorgersi di star lavorando con un sistema distribuito)
+- Economicita' (Meno costoso rispetto ai sistemi centralizzati)
+- Apertura (Apertura ad hardware e software da fornitori diversi grazie alla definizione di standard)
+- Connettivita' e collaborazione (Possibilita' di condividere risorse hardware e software)
+- Prestazioni e scalabilita' (Prestazioni facilmente scalabili con l'aggiunta di macchine)
+- Tolleranza ai guasti (Possibilita' di replicare risorse su piu' macchine e fornirle in caso di guasti)
 
 ### Svantaggi
--
--
+- Produzione di software (Aggiornamento delle vecchie tecnologie con i nuovi standard e strumenti)
+- Complessita' (I sistemi richiedono strumenti per l'interconnesione degli host e per l'instradamento dei messaggi)
+- Sicurezza (Necessita' di accorgimenti per tutelare gli utenti da sniffing con per esempio crittografia)
+- Comunicazione (Il trasferimento a distanze elevate vede spesso varie difficolta' e imprevisti)
 
 
 ## 2 - Modelli architetturali
