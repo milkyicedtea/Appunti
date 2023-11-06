@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee6ab23d-aae1-430f-bc89-fc6b37fea686" name="Changes" comment="" />
+    <list default="true" id="ee6ab23d-aae1-430f-bc89-fc6b37fea686" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Writerside/c.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/in.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/v.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/TPSIT.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +50,33 @@
             </ColorState>
           </value>
         </entry>
+        <entry key="in.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="2" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="225" />
+                  <option name="darkBlue" value="225" />
+                  <option name="darkGreen" value="149" />
+                  <option name="darkRed" value="56" />
+                  <option name="green" value="149" />
+                  <option name="red" value="56" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="234" />
+                  <option name="darkBlue" value="234" />
+                  <option name="darkGreen" value="197" />
+                  <option name="darkRed" value="81" />
+                  <option name="green" value="197" />
+                  <option name="red" value="81" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -59,17 +93,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Gits/Appunti/TPSIT",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "E:/Gits/Appunti/TPSIT/Writerside/topics/TPSIT.md"
-    ]
+    "last_opened_file_path": "C:/Users/Studente/Documents/GitHub/appunti/TPSIT",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "writerside.last.selected.productTPSIT": "in"
   }
 }]]></component>
   <component name="RecentsManager">
