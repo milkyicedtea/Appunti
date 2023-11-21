@@ -6,6 +6,7 @@
                  name="Primo Levi"
                  start-page="Primo Levi.md">
 
+    <toc-element topic="Esame-di-chimica.md"/>
     <toc-element topic="Il-sistema-periodico-Carbonio.md"/>
     <toc-element topic="Primo Levi.md"/>
 </instance-profile>
