@@ -106,7 +106,7 @@ In basi a questo troviamo quattro possibili situazioni:
   - Elementi passivi
   - Rimangono in ascolto di eventuali connessioni su una determinata porta TCP
   - Utilizzano protocollo HTTP per interagire con i client
-  - forniscono su richiesta le pagine web o le risorse
+  - Forniscono su richiesta le pagine web o le risorse
 
 ### HTTP
 - URI: Resource identifier
