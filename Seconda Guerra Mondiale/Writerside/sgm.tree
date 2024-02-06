@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="sgm" name="Seconda Guerra Mondiale"
+                  start-page="L-attacco-alla-Polonia.md">
+
+    <toc-element topic="Occupazione-della-Francia-e-battaglia-d’Inghilterra.md"/>
+    <toc-element topic="L-Italia-in-guerra-la-resistenza-e-il-Regno-del-Sud.md"/>
+    <toc-element topic="L-attacco-a-Pearl-Harbor.md"/>
+    <toc-element topic="Lo-sbarco-in-Normandia-la-fine-della-guerra-in-Europa-e-la-Bomba-Atomica.md"/>
+    <toc-element topic="Processo-di-Norimberga-e-le-conseguenze-del-conflitto.md"/>
+    <toc-element topic="Alleanza-Hitler-Stalin-e-L-attacco-all-unione-sovietica.md"/>
+    <toc-element topic="L-attacco-alla-Polonia.md"/>
+</instance-profile>
