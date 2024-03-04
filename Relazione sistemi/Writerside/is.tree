@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Help Instance"
-                 start-page="Empty-MD-Topic.md">
+<instance-profile id="is" name="Implementazione Sistemi"
+                  start-page="Relazione Sistemi.md">
 
-    <toc-element topic="Empty-MD-Topic.md"/>
+    <toc-element topic="Relazione Sistemi.md"/>
 </instance-profile>
