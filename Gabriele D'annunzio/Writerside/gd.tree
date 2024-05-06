@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="gd"
+                 name="Gabriele D'annunzio"
+                  start-page="Vita-e-Opere.md">
+
+    <toc-element topic="Il-pensiero-e-la-poetica.md"/>
+    <toc-element topic="Alcyone.md"/>
+    <toc-element topic="Vita-e-Opere.md"/>
+</instance-profile>
